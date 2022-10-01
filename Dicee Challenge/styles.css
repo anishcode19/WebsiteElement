@@ -2,6 +2,13 @@
   width: 70%;
   margin: auto;
   text-align: center;
+  
+}
+.box{
+ background-color: rgb(65, 213, 201);
+ border: 2px solid rgb(18, 18, 17);
+ 
+
 }
 
 .dice {
@@ -26,12 +33,12 @@ h4 {
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
   font-size: 3rem;
-  color: #4ECCA3;
+  color: #18eed5;
 }
 
 p {
   font-size: 2rem;
-  color: #4ECCA3;
+  color: #df3c1f;
   font-family: 'Indie Flower', cursive;
 }
 
@@ -46,6 +53,24 @@ footer {
   font-family: 'Indie Flower', cursive;
 }
 
+
+.btn{
+  cursor: pointer;
+  font-family: 'Lobster', cursive;
+  background-color: #4ECCA3;
+  box-shadow: #dadcde;
+  font-size: 3rem;
+  color: #151e1b;
+  
+
+}
+.btn:hover{
+  cursor: pointer;
+  font-size: 50px;
+  background-color: #EEEEEE;
+  
+
+}
 .footer{
   font-family: 'Lobster', cursive;
   text-shadow: 5px 0 #232931;
