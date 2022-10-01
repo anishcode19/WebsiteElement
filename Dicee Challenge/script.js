@@ -21,3 +21,9 @@ if(player1Random>player2Random){
 }else{
   document.querySelector(".result").innerHTML="Draw!"
 }
+
+function roll_dice(){
+  window.location.reload();
+
+
+}
